@@ -1,2 +1,4 @@
 Are you ready?
 let's go!!!
+
+没办法 , 好像是第二次接触暂存区的概念
