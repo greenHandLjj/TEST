@@ -7,3 +7,5 @@ i love JavaScript
 i love java
 
 i iiiiiiiii ii
+
+ssh-keygen -t rsa -C 'you Email'
