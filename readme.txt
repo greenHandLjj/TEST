@@ -9,3 +9,5 @@ i love java
 i iiiiiiiii ii
 
 ssh-keygen -t rsa -C 'you Email'
+
+我偷偷的放弃，没有人会发现吧
