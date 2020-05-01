@@ -11,3 +11,5 @@ i iiiiiiiii ii
 ssh-keygen -t rsa -C 'you Email'
 
 我偷偷的放弃，没有人会发现吧
+
+今天是 2020.5.1
